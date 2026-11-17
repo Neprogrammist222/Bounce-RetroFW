@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Bounce
+Comment=Nokia Bounce Port
+Exec=bounce
+Icon=icons/bouncesplash
+Categories=games;
+Selector=false

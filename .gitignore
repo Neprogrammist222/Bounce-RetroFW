@@ -1,0 +1,6 @@
+bounce
+bounce_host
+*.opk
+*.sav
+*.o
+opk_build/
